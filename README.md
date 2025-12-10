@@ -115,7 +115,4 @@ This project demonstrates end-to-end SQL skills including:
 ✔ Automations through triggers  
 ✔ Industry-level stored procedures  
 
----
 
-📌 Feel free to star the repository ⭐  
-# Online-Bookstore-Analysis
